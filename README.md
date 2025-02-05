@@ -17,7 +17,8 @@ A software developer focused on building reliable and efficient solutions. I enj
 
 ### Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,cs,cpp,c,assembly" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,cs,cpp,c" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="48"/>
 </div>
 
 ### Databases & Storage
@@ -33,7 +34,7 @@ A software developer focused on building reliable and efficient solutions. I enj
 
 ### Development Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux,bash,vscode" />
 </div>
 
 ---
