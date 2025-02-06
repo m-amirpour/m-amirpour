@@ -21,7 +21,7 @@ A passionate software developer focused on building reliable and efficient solut
 
 ### Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,cs,cpp,c,dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,cs,cpp,c" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="48"/>
 </div>
 
