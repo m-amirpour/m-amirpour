@@ -21,6 +21,12 @@ A software developer focused on building reliable and efficient solutions. I enj
   <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="48"/>
 </div>
 
+### Languages & Core Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=.netcore,springboot" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="48"/>
+</div>
+
 ### Databases & Storage
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
