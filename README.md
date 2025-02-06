@@ -32,9 +32,9 @@ A software developer focused on building reliable and efficient solutions. I enj
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 </div>
 
-### Development Tools & DevOps
+### DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux,bash" />
 </div>
 
 ---
