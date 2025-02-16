@@ -16,13 +16,13 @@ I'm a passionate software developer with a deep focus on backend development, bi
 
 ### Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,cs,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cs,cpp,c" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="48"/>
 </div>
 
 ### Web Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react" />
 </div>
 
 ### Databases & Storage
@@ -32,8 +32,7 @@ I'm a passionate software developer with a deep focus on backend development, bi
 
 ### Machine Learning & AI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 </div>
 
 ### DevOps
