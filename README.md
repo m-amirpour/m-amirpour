@@ -46,20 +46,6 @@ I'm a passionate software developer with a deep focus on backend development, bi
 - Machine Learning Pipelines
 - Scalable Distributed Systems
 
-## 📊 Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmahdiamirpour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Profile Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmahdiamirpour&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmahdiamirpour&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
