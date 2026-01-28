@@ -16,13 +16,13 @@ I'm a passionate software developer with a deep focus on backend development, bi
 
 ### Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cs,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="48"/>
 </div>
 
 ### Web Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,react" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </div>
 
 ### Databases & Storage
