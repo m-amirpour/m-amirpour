@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Backend+Developer;Big+Data+and+ML+Enthusiast;Open+to+collaboration+and+learning+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Just+a+student" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
