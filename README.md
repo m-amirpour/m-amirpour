@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Just+a+student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Just+a+student." alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
@@ -39,11 +39,6 @@ Just a student.
   <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </div>
 
-## 🎯 Key Focus Areas
-- Backend System Design
-- Big Data Processing
-- Machine Learning Pipelines
-- Scalable Distributed Systems
 
 ## 🤝 Let's Connect
 
