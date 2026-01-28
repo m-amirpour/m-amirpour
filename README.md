@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer with a deep focus on backend development, big data, and machine learning. I specialize in building robust, scalable systems and transforming complex data into intelligent solutions.
+Just a student.
 
 ## 🚀 Technical Stack
 
@@ -36,7 +36,7 @@ I'm a passionate software developer with a deep focus on backend development, bi
 
 ### DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </div>
 
 ## 🎯 Key Focus Areas
